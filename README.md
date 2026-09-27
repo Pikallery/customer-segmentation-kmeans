@@ -148,7 +148,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn jupyter
 
 ### Run the Notebook
 ```bash
-git clone https://github.com/<your-username>/customer-segmentation-kmeans.git
+git clone https://github.com/Pikallery/customer-segmentation-kmeans.git
 cd customer-segmentation-kmeans
 jupyter notebook Customer_Segmentation_KMeans.ipynb
 ```
