@@ -177,13 +177,3 @@ customer-segmentation-kmeans/
 ```
 
 ---
-
-## License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
----
-
-<p align="center">
-  <i>Built with ❤️ for Data Science & Machine Learning</i>
-</p>
